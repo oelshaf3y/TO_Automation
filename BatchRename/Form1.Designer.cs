@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             label1 = new Label();
             textBox1 = new TextBox();
-            button1 = new Button();
             panel1 = new Panel();
             button2 = new Button();
             button3 = new Button();
@@ -48,6 +48,9 @@
             button6 = new Button();
             checkBox1 = new CheckBox();
             label7 = new Label();
+            linkLabel1 = new LinkLabel();
+            linkLabel2 = new LinkLabel();
+            linkLabel3 = new LinkLabel();
             SuspendLayout();
             // 
             // label1
@@ -66,16 +69,6 @@
             textBox1.Size = new Size(322, 27);
             textBox1.TabIndex = 1;
             textBox1.TextChanged += textBox1_TextChanged;
-            // 
-            // button1
-            // 
-            button1.Location = new Point(336, 27);
-            button1.Name = "button1";
-            button1.Size = new Size(94, 29);
-            button1.TabIndex = 2;
-            button1.Text = "Filter";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
             // 
             // panel1
             // 
@@ -222,11 +215,50 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(1118, 421);
+            label7.Location = new Point(1051, 421);
             label7.Name = "label7";
             label7.Size = new Size(165, 20);
             label7.TabIndex = 19;
             label7.Text = "© Omar Elshafey | 2024";
+            // 
+            // linkLabel1
+            // 
+            linkLabel1.AutoSize = true;
+            linkLabel1.Image = Properties.Resources.gitPNG;
+            linkLabel1.Location = new Point(1222, 421);
+            linkLabel1.MinimumSize = new Size(20, 20);
+            linkLabel1.Name = "linkLabel1";
+            linkLabel1.Size = new Size(25, 20);
+            linkLabel1.TabIndex = 23;
+            linkLabel1.TabStop = true;
+            linkLabel1.Text = "    ";
+            linkLabel1.LinkClicked += linkLabel1_LinkClicked;
+            // 
+            // linkLabel2
+            // 
+            linkLabel2.AutoSize = true;
+            linkLabel2.Image = Properties.Resources.InPNG;
+            linkLabel2.Location = new Point(1250, 421);
+            linkLabel2.MinimumSize = new Size(20, 20);
+            linkLabel2.Name = "linkLabel2";
+            linkLabel2.Size = new Size(25, 20);
+            linkLabel2.TabIndex = 24;
+            linkLabel2.TabStop = true;
+            linkLabel2.Text = "    ";
+            linkLabel2.LinkClicked += linkLabel2_LinkClicked;
+            // 
+            // linkLabel3
+            // 
+            linkLabel3.AutoSize = true;
+            linkLabel3.Image = Properties.Resources.MesPNG;
+            linkLabel3.Location = new Point(1277, 421);
+            linkLabel3.MinimumSize = new Size(20, 20);
+            linkLabel3.Name = "linkLabel3";
+            linkLabel3.Size = new Size(25, 20);
+            linkLabel3.TabIndex = 25;
+            linkLabel3.TabStop = true;
+            linkLabel3.Text = "    ";
+            linkLabel3.LinkClicked += linkLabel3_LinkClicked;
             // 
             // Form1
             // 
@@ -234,6 +266,9 @@
             AutoScaleMode = AutoScaleMode.Font;
             CancelButton = button5;
             ClientSize = new Size(1330, 450);
+            Controls.Add(linkLabel3);
+            Controls.Add(linkLabel2);
+            Controls.Add(linkLabel1);
             Controls.Add(label7);
             Controls.Add(checkBox1);
             Controls.Add(button6);
@@ -251,9 +286,9 @@
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(panel1);
-            Controls.Add(button1);
             Controls.Add(textBox1);
             Controls.Add(label1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             Text = "Batch Rename";
             ResumeLayout(false);
@@ -264,7 +299,6 @@
 
         private Label label1;
         private TextBox textBox1;
-        private Button button1;
         private Panel panel1;
         private Button button2;
         private Button button3;
@@ -282,5 +316,8 @@
         private Button button6;
         private CheckBox checkBox1;
         private Label label7;
+        private LinkLabel linkLabel1;
+        private LinkLabel linkLabel2;
+        private LinkLabel linkLabel3;
     }
 }

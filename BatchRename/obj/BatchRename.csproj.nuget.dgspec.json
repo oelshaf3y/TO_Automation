@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj": {}
+    "C:\\Users\\Omar\\Source\\Repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj": {
+    "C:\\Users\\Omar\\Source\\Repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj",
+        "projectUniqueName": "C:\\Users\\Omar\\Source\\Repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj",
         "projectName": "BatchRename",
-        "projectPath": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj",
-        "packagesPath": "C:\\Users\\Omar.Elshafey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\obj\\",
+        "projectPath": "C:\\Users\\Omar\\Source\\Repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omar\\Source\\Repos\\oelshaf3y\\TO_Automation\\BatchRename\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Omar.Elshafey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,24 +55,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -81,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

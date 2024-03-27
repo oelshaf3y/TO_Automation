@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ObaF+w6693NMluiNUTOjeShu5LV/UAKFWimpnKVSqSgC4Rfm08gnCqyyPzJXMv+IF1uXi0QvvMFFcOwbUyEOvg==",
+  "dgSpecHash": "d/aUSY/yc7bC5ucSbuMwEjbMorbTnk4OqxXdXxslH5kjeFdRKGw2Bk6Moe/VJZLPj13rOiLTqnfUeh9fhxbxmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Omar.Elshafey\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\Omar.Elshafey\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\Omar.Elshafey\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\Omar.Elshafey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Omar\\Source\\Repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UP/uefCql9lzHmmZlXEagDBjYKz3I/Vf07QQ/lLSyGF5OC2hWuF9z0SRMVkuA51aoFgW05rz+3gQ4eTq2C0DFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omar\\Source\\Repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.28\\microsoft.netcore.app.runtime.win-x86.6.0.28.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.28\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.28.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.28\\microsoft.aspnetcore.app.runtime.win-x86.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

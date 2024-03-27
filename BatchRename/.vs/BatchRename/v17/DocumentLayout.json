@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\",
+  "WorkspaceRootPath": "C:\\Users\\Omar\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|c:\\users\\omar.elshafey\\source\\repos\\oelshaf3y\\to_automation\\batchrename\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|c:\\users\\omar\\source\\repos\\oelshaf3y\\to_automation\\batchrename\\batchrename.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|solutionrelative:batchrename.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|c:\\users\\omar.elshafey\\source\\repos\\oelshaf3y\\to_automation\\batchrename\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|c:\\users\\omar\\source\\repos\\oelshaf3y\\to_automation\\batchrename\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|c:\\users\\omar.elshafey\\source\\repos\\oelshaf3y\\to_automation\\batchrename\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|c:\\users\\omar\\source\\repos\\oelshaf3y\\to_automation\\batchrename\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|c:\\users\\omar\\source\\repos\\oelshaf3y\\to_automation\\batchrename\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07183263-037F-4874-AD9C-7598B016E82C}|BatchRename.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -37,46 +41,52 @@
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AQIAAL0AAAAAAAAAAAAswNEAAAAqAAAA",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAswLgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T11:16:02.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T11:16:02.438Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAYwHMAAAAkAAAA",
+              "ViewState": "AQIAALAAAAAAAAAAAAAswMcAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T09:06:59.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T09:06:59.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T09:06:05.96Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BatchRename",
+              "DocumentMoniker": "C:\\Users\\Omar\\Source\\Repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj",
+              "RelativeDocumentMoniker": "BatchRename.csproj",
+              "ToolTip": "C:\\Users\\Omar\\Source\\Repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj",
+              "RelativeToolTip": "BatchRename.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T21:39:44.698Z",
+              "EditorCaption": ""
             }
           ]
         }

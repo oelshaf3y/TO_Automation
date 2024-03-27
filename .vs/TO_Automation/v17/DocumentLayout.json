@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar.Elshafey\\source\\repos\\oelshaf3y\\TO_Automation\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Omar\\source\\repos\\oelshaf3y\\TO_Automation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Omar\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BatchRename\\BatchRename.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,8 +29,17 @@
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BatchRename.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj.user",
+              "RelativeDocumentMoniker": "BatchRename\\BatchRename.csproj.user",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj.user",
+              "RelativeToolTip": "BatchRename\\BatchRename.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-03-27T21:45:51.655Z",
+              "EditorCaption": ""
             }
           ]
         }

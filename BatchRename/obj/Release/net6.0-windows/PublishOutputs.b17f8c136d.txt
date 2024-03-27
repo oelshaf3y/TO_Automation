@@ -1,0 +1,5 @@
+C:\Users\Omar\Source\Repos\oelshaf3y\TO_Automation\BatchRename\bin\Release\net6.0-windows\publish\BatchRename.exe
+C:\Users\Omar\Source\Repos\oelshaf3y\TO_Automation\BatchRename\bin\Release\net6.0-windows\publish\BatchRename.dll
+C:\Users\Omar\Source\Repos\oelshaf3y\TO_Automation\BatchRename\bin\Release\net6.0-windows\publish\BatchRename.deps.json
+C:\Users\Omar\Source\Repos\oelshaf3y\TO_Automation\BatchRename\bin\Release\net6.0-windows\publish\BatchRename.runtimeconfig.json
+C:\Users\Omar\Source\Repos\oelshaf3y\TO_Automation\BatchRename\bin\Release\net6.0-windows\publish\BatchRename.pdb

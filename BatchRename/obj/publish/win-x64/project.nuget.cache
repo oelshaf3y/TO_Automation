@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qzksnYTV0GfZxEWCLIzvBQL9Co55UK63eLLz+VPDC/gYCwpYsomoWQ4zapZuXcCNdKVbb/oOOOe2Jng9WdbbUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omar\\Source\\Repos\\oelshaf3y\\TO_Automation\\BatchRename\\BatchRename.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512"
+  ],
+  "logs": []
+}

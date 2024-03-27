@@ -1,4 +1,5 @@
-
+using System.Diagnostics;
+using System.Runtime.InteropServices;
 using System.Text;
 
 namespace BatchRename
@@ -35,12 +36,6 @@ namespace BatchRename
                 panel1.Controls.Add(cb);
                 a++;
             }
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            panel1.Controls.Clear();
-            GetFiles(textBox1.Text.ToLower());
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -111,7 +106,11 @@ namespace BatchRename
                     System.IO.File.Move(oldPath, newPath);
                 }
             }
-
+            if (Directory == null)
+            {
+                MessageBox.Show("Please Select the path first!.");
+                return;
+            }
             files = System.IO.Directory.GetFiles(Directory);
             panel1.Controls.Clear();
             GetFiles(textBox1.Text.ToLower());
@@ -120,7 +119,97 @@ namespace BatchRename
 
         private void button5_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Close();
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            string url = "https://github.com/oelshaf3y";
+            try
+            {
+                Process.Start(url);
+            }
+            catch
+            {
+                // hack because of this: https://github.com/dotnet/corefx/issues/10361
+                if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+                {
+                    url = url.Replace("&", "^&");
+                    Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
+                }
+                else if (RuntimeInformation.IsOSPlatform(OSPlatform.Linux))
+                {
+                    Process.Start("xdg-open", url);
+                }
+                else if (RuntimeInformation.IsOSPlatform(OSPlatform.OSX))
+                {
+                    Process.Start("open", url);
+                }
+                else
+                {
+                    throw;
+                }
+            }
+        }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            string url = "https://www.linkedin.com/in/oelshaf3y/";
+            try
+            {
+                Process.Start(url);
+            }
+            catch
+            {
+                // hack because of this: https://github.com/dotnet/corefx/issues/10361
+                if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+                {
+                    url = url.Replace("&", "^&");
+                    Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
+                }
+                else if (RuntimeInformation.IsOSPlatform(OSPlatform.Linux))
+                {
+                    Process.Start("xdg-open", url);
+                }
+                else if (RuntimeInformation.IsOSPlatform(OSPlatform.OSX))
+                {
+                    Process.Start("open", url);
+                }
+                else
+                {
+                    throw;
+                }
+            }
+        }
+
+        private void linkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            string url = "https://m.me/o.elshaf3y";
+            try
+            {
+                Process.Start(url);
+            }
+            catch
+            {
+                // hack because of this: https://github.com/dotnet/corefx/issues/10361
+                if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+                {
+                    url = url.Replace("&", "^&");
+                    Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
+                }
+                else if (RuntimeInformation.IsOSPlatform(OSPlatform.Linux))
+                {
+                    Process.Start("xdg-open", url);
+                }
+                else if (RuntimeInformation.IsOSPlatform(OSPlatform.OSX))
+                {
+                    Process.Start("open", url);
+                }
+                else
+                {
+                    throw;
+                }
+            }
         }
     }
 
