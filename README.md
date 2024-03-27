@@ -19,6 +19,10 @@ The Batch Rename Tool is designed to streamline the process of renaming multiple
 
 We welcome contributions from the community to enhance and expand the Technical Office Engineer Tools repository. If you have any suggestions, bug reports, or additional tools that you believe would benefit technical office engineers, please feel free to open an issue or submit a pull request. Together, we can create a valuable resource for all engineers.
 
+### Downloads
+
+https://github.com/oelshaf3y/TO_Automation/releases
+
 ### License
 
 The Technical Office Engineer Tools repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the tools as per the terms of this license.
